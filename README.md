@@ -4,6 +4,6 @@
 
 Use pixi to setup with:
 ```
-pixi run setup
+pixi install && pixi run setup
 ```
 
